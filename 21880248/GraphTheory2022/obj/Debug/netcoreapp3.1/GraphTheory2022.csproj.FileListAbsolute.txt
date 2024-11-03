@@ -1,0 +1,14 @@
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\bin\Debug\netcoreapp3.1\GraphTheory2022.exe
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\bin\Debug\netcoreapp3.1\GraphTheory2022.deps.json
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\bin\Debug\netcoreapp3.1\GraphTheory2022.runtimeconfig.json
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\bin\Debug\netcoreapp3.1\GraphTheory2022.runtimeconfig.dev.json
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\bin\Debug\netcoreapp3.1\GraphTheory2022.dll
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\bin\Debug\netcoreapp3.1\GraphTheory2022.pdb
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.csproj.AssemblyReference.cache
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.GeneratedMSBuildEditorConfig.editorconfig
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.AssemblyInfoInputs.cache
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.AssemblyInfo.cs
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.csproj.CoreCompileInputs.cache
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.dll
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.pdb
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\01_LyThuyetDoThi\21880248\GraphTheory2022\obj\Debug\netcoreapp3.1\GraphTheory2022.genruntimeconfig.cache

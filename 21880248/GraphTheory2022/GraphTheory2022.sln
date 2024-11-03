@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTheory2022", "GraphTheory2022.csproj", "{FF248523-52E3-41C7-9E99-44E146956A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF248523-52E3-41C7-9E99-44E146956A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF248523-52E3-41C7-9E99-44E146956A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF248523-52E3-41C7-9E99-44E146956A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF248523-52E3-41C7-9E99-44E146956A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690B7D50-F74F-4F81-8D82-4D60E93FEE06}
+	EndGlobalSection
+EndGlobal
